@@ -14,4 +14,4 @@ Standalone usage
 
 Usage with input from stdout
 ---------------
-`proj3 objects.txt [N] | python3 IZP-ClusterVisualizer/src/clusterv/main.py --ti`
+`proj3 objects.txt [N] | python3 IZP-ClusterVisualizer/src/clusterv/main.py -`

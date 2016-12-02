@@ -8,7 +8,7 @@ if __name__ == "__main__":
     app = QApplication(sys.argv)
     main_window = MainWindow()
 
-    if len(app.arguments()) == 2 and app.arguments()[1] == "--ti":
+    if len(app.arguments()) == 2 and app.arguments()[1] == "-":
         str_input = sys.stdin.read()
         main_window.set_clusters(str_input)
 
