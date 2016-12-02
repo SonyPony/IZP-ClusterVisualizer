@@ -10,7 +10,7 @@ Installation
 
 Standalone usage
 ---------------
-0. python3 main.py
+0. python3 src/clusterv/main.py
 
 Usage with input from stdout
 ---------------
