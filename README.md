@@ -14,4 +14,4 @@ Standalone usage
 
 Usage with input from stdout
 ---------------
-0. proj3 objects.txt [N] | python3 main.py
+0. proj3 objects.txt [N] | IZP-ClusterVisualizer/src/clusterv/python3 main.py
