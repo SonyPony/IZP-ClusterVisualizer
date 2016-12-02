@@ -4,14 +4,14 @@ Program to visualize clusters
 Installation
 ---------------
 0. somehow install python >= 3.2
-0. clone/download repository
-0. cd into repository root
-0. pip install -r requirements.txt
+0. `$ git clone https://github.com/SonyPony/IZP-ClusterVisualizer.git` or manually download repo
+0. `$ cd IZP-ClusterVisualizer`
+0. `$ pip install -r requirements.txt`
 
 Standalone usage
 ---------------
-0. python3 src/clusterv/main.py
+`$ python3 src/clusterv/main.py`
 
 Usage with input from stdout
 ---------------
-0. proj3 objects.txt [N] | python3 IZP-ClusterVisualizer/src/clusterv/main.py --ti
+`proj3 objects.txt [N] | python3 IZP-ClusterVisualizer/src/clusterv/main.py --ti`
